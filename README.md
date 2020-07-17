@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div id="readme" class="Box md js-code-block-container Box--responsive">
     <div class="Box-header d-flex flex-items-center flex-justify-between bg-white border-bottom-0">
       <h2 class="Box-title pr-3">
-        Hello therer...
+        Hello Therer...
       </h2>
     </div>
       <div class="Box-body px-5 pb-5">
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   <ul>
   <h3>📫How to reach me:</h3>
   <h4>👯Social Media</h4>
-    <li><b><a href="https://www.instagram.com/jv.marks/" style="text-decoration:none;">Instagram</a><b></li>
-    <li><b><a href="https://twitter.com/marks131" style="text-decoration:none;">Twitter</a><b></li>
+    <li><b><a href="https://www.instagram.com/jv.marks/" style="text-decoration:none;">Instagram</a></b></li>
+    <li><b><a href="https://twitter.com/marks131" style="text-decoration:none;">Twitter</a></b></li>
   </ul>
 
  <ul>
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 </ul>
     
 <h3>⚡Fun fact:</h3>      
-
+<p>Currently I'm studying as a information systems Student at Faculdade de Informática e Administração Paulista, When I'm not in front of a computer screen , I'm probably on the gym, watching movies, playing video Game, or having some fun with my friends.</p>
