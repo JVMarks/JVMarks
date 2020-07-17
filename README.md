@@ -13,11 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  <div id="readme" class="Box md js-code-block-container Box--responsive">
+<div id="readme" class="Box md js-code-block-container Box--responsive">
+    <div class="Box-header d-flex flex-items-center flex-justify-between bg-white border-bottom-0">
+      <h2 class="Box-title pr-3">
+        Hello therer...
+      </h2>
+    </div>
       <div class="Box-body px-5 pb-5">
-    <P>You can call me John,I'm self-taught Javascript Programmer & UX Designer focused on getting the job done, One of my great abilities is to understand what the client want and what he need, Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging</p>
- 
+       <h4>I'm self-taught Javascript Programmer & UX Designer focused on getting the job done</h4>
+       <h4>Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging</h4>
+
 <ul> 
   <h3>✨Things you need to know</h3>
    <li>🔭 I’m currently working on: NodeJS, ReactJS and React Native</li>
@@ -41,5 +46,4 @@ Here are some ideas to get you started:
 </ul>
     
 <h3>⚡ Fun fact:</h3>      
-<p>Currently I'm studying as a information systems Student at Faculdade de Informática e Administração Paulista.</p>
-<p>When I'm not in front of a computer screen , I'm probably on the gym, watching movies, playing video Game, or having some fun with my friends.</p>    
+<p>Currently I'm studying as a information systems Student at Faculdade de Informática e Administração Paulista, When I'm not in front of a computer screen , I'm probably on the gym, watching movies, playing video Game, or having some fun with my friends.</p>    
