@@ -27,23 +27,22 @@ Here are some ideas to get you started:
   <h3>✨Things you need to know</h3>
    <li>🔭 I’m currently working on: NodeJS, ReactJS and React Native</li>
    <li>🌱 I’m currently learning: I improve my skills learning about the code that I am dealing with...</li>
-   <li>👯 I’m looking to collaborate on: I always like to participate and help open source projects</li>
+   <li>👯 I’m looking to collaborate on: I always like to participate and help in open source projects</li>
 </ul>
 
   <ul>
   <h3>📫How to reach me:</h3>
-  <h4>👯social media</h4>
+  <h4>👯Social Media</h4>
     <li><b><a href="https://www.instagram.com/jv.marks/" style="text-decoration:none;">Instagram</a><b></li>
     <li><b><a href="https://twitter.com/marks131" style="text-decoration:none;">Twitter</a><b></li>
   </ul>
 
-    
  <ul>
-  <h4>💬 social network</h4>
+  <h4>💬Social Network</h4>
   <li><b><a href="https://jvmarks.github.io/" style="text-decoration:none;">Portfolio</a></b></li>
   <li><b><a href="https://www.linkedin.com/in/jo%C3%A3o-victor-marks-74b26a193/" style="text-decoration:none;">Linkedin</a></b></li>
   <li><b><a href="https://codepen.io/marks_13" style="text-decoration:none;">Codepen</a></b></li>
 </ul>
     
-<h3>⚡ Fun fact:</h3>      
+<h3>⚡Fun fact:</h3>      
 <p>Currently I'm studying as a information systems Student at Faculdade de Informática e Administração Paulista, When I'm not in front of a computer screen , I'm probably on the gym, watching movies, playing video Game, or having some fun with my friends.</p>    
