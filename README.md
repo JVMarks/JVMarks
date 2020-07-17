@@ -15,16 +15,8 @@ Here are some ideas to get you started:
 -->
 
   <div id="readme" class="Box md js-code-block-container Box--responsive">
-    <div class="Box-header d-flex flex-items-center flex-justify-between bg-white border-bottom-0">
-      <h2 class="Box-title pr-3">
-        Hello therer...
-      </h2>
-    </div>
       <div class="Box-body px-5 pb-5">
-    <h3>You can call me John...</h3>
-      <h4>I'm self-taught Javascript Programmer & UX Designer focused on getting the job done</h4>
-       <h4>One of my great abilities is to understand what the client want and what he need</h4>
-          <h4>Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging</h4>
+    <P>You can call me John,I'm self-taught Javascript Programmer & UX Designer focused on getting the job done, One of my great abilities is to understand what the client want and what he need, Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging</p>
  
 <ul> 
   <h3>✨Things you need to know</h3>
