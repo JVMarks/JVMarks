@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 </ul>
     
 <h3>⚡Fun fact:</h3>      
-<p>Currently I'm studying as a information systems Student at Faculdade de Informática e Administração Paulista, When I'm not in front of a computer screen , I'm probably on the gym, watching movies, playing video Game, or having some fun with my friends.</p>    
+
