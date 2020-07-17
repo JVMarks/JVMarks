@@ -20,8 +20,8 @@ Here are some ideas to get you started:
       </h2>
     </div>
       <div class="Box-body px-5 pb-5">
-       <h4>I'm self-taught Javascript Programmer & UX Designer focused on getting the job done</h4>
-       <h4>Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging</h4>
+       <h3>I'm self-taught Javascript Programmer & UX Designer focused on getting the job done</h3>
+       <h3>Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging</h3>
 
 <ul> 
   <h3>✨Things you need to know</h3>
@@ -40,9 +40,9 @@ Here are some ideas to get you started:
     
  <ul>
   <h4>💬 social network</h4>
-  <li><b><a href="https://jvmarks.github.io/" style="text-decoration:none;">Portfolio</a><b></li>
-  <li><b><a href="https://www.linkedin.com/in/jo%C3%A3o-victor-marks-74b26a193/" style="text-decoration:none;">Linkedin</a><b></li>
-  <li><b><a href="https://codepen.io/marks_13" style="text-decoration:none;">Codepen</a><b></li>
+  <li><b><a href="https://jvmarks.github.io/" style="text-decoration:none;">Portfolio</a></b></li>
+  <li><b><a href="https://www.linkedin.com/in/jo%C3%A3o-victor-marks-74b26a193/" style="text-decoration:none;">Linkedin</a></b></li>
+  <li><b><a href="https://codepen.io/marks_13" style="text-decoration:none;">Codepen</a></b></li>
 </ul>
     
 <h3>⚡ Fun fact:</h3>      
