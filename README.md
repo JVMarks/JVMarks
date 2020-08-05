@@ -42,3 +42,5 @@ Here are some ideas to get you started:
   </ul>
 <h3>⚡Fun fact:</h3>      
 <p>Currently I'm studying as a information systems Student at Faculdade de Informática e Administração Paulista, When I'm not in front of a computer screen , I'm probably on the gym, watching movies, playing video Game, or having some fun with my friends.</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JVMarks&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
