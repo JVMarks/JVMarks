@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging</p>
 <ul> 
   <h3>✨Things you need to know</h3>
-   <li>🔭 Principal skills NodeJS, ReactJS and React Native</li>
+   <li>🔭 Working with NodeJS, ReactJS and React Native</li>
    <li>🌱 I improve my skills learning about the code that I am dealing with...</li>
    <li>👯 I always like to participate and help in open source projects</li>
 </ul>
