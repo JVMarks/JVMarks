@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     </div>
       <div class="Box-body px-5 pb-5">
        <h3>I'm self-taught Javascript Programmer & UX Designer focused on getting the job done</h3>
-       <p>Currently I'm studying aas a software engineer & devops student at Faculdade de Informática e Administração Paulista, 
+       <p>Currently I'm studying as a software engineer & devops student at Faculdade de Informática e Administração Paulista, 
 Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging</p>
 <ul> 
   <h3>✨Things you need to know</h3>
