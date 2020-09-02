@@ -29,7 +29,7 @@ Being a Javascript Programmer, I love creating applications that are scalable an
 <ul> 
   <h3>✨Things you need to know</h3>
    <li>🧑‍💻 I'm a Javascript Developer from <b>São Paulo, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
-   <li>👯 Willing to contribute in opensource development projects.</li>
+   <li>👯 Willing to contribute in opensource development projects;</li>
     <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
  <ul>
