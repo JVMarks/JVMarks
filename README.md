@@ -34,7 +34,6 @@ Being a Javascript Programmer, I love creating applications that are scalable an
 </ul>
  <ul>
    <h3>📫How to reach me:</h3>
-  <h4>💬Social Network</h4>
 <a href="https://linkedin.com/in/joão-victor-marks-74b26a193/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/jv.marks"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:jovic.marks@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
