@@ -12,29 +12,49 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://camo.githubusercontent.com//5e382e07cfb68ece51be2fb7028b3fea88ef6dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f65756775737461766f736f757a612f
 -->
+
 <div id="readme" class="Box md js-code-block-container Box--responsive">
-    <div class="Box-header d-flex flex-items-center flex-justify-between bg-white border-bottom-0">
-      <h2 class="Box-title pr-3">
-        Hello Therer...
-      </h2>
+    <div class="Box-header d-flex flex-items-center flex-justify-between bg-white border-bottom-0">     
+      <h1 class="Box-title pr-3">
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello Therer...
+      </h1>
     </div>
       <div class="Box-body px-5 pb-5">
-       <h3>I'm self-taught Javascript Programmer & UX Designer focused on getting the job done</h3>
+       <h3>
+           <img align='right' src='https://media1.tenor.com/images/2477b4b564fa225af89ede7ef3f51d70/tenor.gif?itemid=17534947' width='200'>
+           I'm self-taught Javascript Programmer & UX Designer focused on getting the job done</h3>
        <p>Currently I'm studying as a software engineer & devops student at Faculdade de Informática e Administração Paulista, 
 Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging</p>
 <ul> 
   <h3>✨Things you need to know</h3>
-   <li>🔭 Working with NodeJS, ReactJS and React Native</li>
-   <li>🌱 I improve my skills learning about the code that I am dealing with...</li>
-   <li>👯 I always like to participate and help in open source projects</li>
+   <li>🧑‍💻 I'm a Javascript Developer from <b>São Paulo, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
+   <li>👯 Willing to contribute in opensource development projects.</li>
+    <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
  <ul>
    <h3>📫How to reach me:</h3>
   <h4>💬Social Network</h4>
-  <li><b><a href="https://jvmarks.github.io/" style="text-decoration:none;">Portfolio</a></b></li>
-  <li><b><a href="https://www.linkedin.com/in/jo%C3%A3o-victor-marks-74b26a193/" style="text-decoration:none;">Linkedin</a></b></li>
-  <li><b><a href="https://codepen.io/marks_13" style="text-decoration:none;">Codepen</a></b></li>
+<a href="https://linkedin.com/in/joão-victor-marks-74b26a193/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/jv.marks"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:jovic.marks@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 </ul>
-<img src="https://github-readme-stats.vercel.app/api?username=JVMarks&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+          
+ <ul>
+    <h3>🛠 Tech Stack</h3>      
+  <p>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+ </p>
+</ul>
+<p align = "center">
+<img src="https://badges.pufler.dev/visits/JVMarks/JVMarks?style=for-the-badge"><img src="https://badges.pufler.dev/repos/JVMarks?style=for-the-badge">
+</p>
+<p align = "center">
+  <img align = "center" src="https://github-readme-stats.vercel.app/api?username=JVMarks&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
