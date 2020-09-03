@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div id="readme" class="Box md js-code-block-container Box--responsive">
     <div class="Box-header d-flex flex-items-center flex-justify-between bg-white border-bottom-0">     
       <h1 class="Box-title pr-3">
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello Therer...
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello There...
       </h1>
     </div>
       <div class="Box-body px-5 pb-5">
