@@ -51,9 +51,7 @@ Being a Javascript Programmer, I love creating applications that are scalable an
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
  </p>
 </ul>
-<p align = "center">
-<img src="https://badges.pufler.dev/visits/JVMarks/JVMarks?style=for-the-badge"><img src="https://badges.pufler.dev/repos/JVMarks?style=for-the-badge">
-</p>
+
 <p align = "center">
   <img align = "center" src="https://github-readme-stats.vercel.app/api?username=JVMarks&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
