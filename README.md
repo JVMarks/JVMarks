@@ -23,7 +23,8 @@ Here are some ideas to get you started:
       <div class="Box-body px-5 pb-5">
        <h3>
            <img align='right' src='https://media1.tenor.com/images/2477b4b564fa225af89ede7ef3f51d70/tenor.gif?itemid=17534947' width='200'>
-           I'm self-taught Javascript Programmer & UX Designer focused on getting the job done</h3>
+           I'm self-taught Javascript Programmer & UX Designer focused on getting the job done
+       </h3>
        <p>Currently, I'm studying as a software engineer & developer student at Faculdade de Informática e Administração Paulista. 
        </br>Being a Javascript Programmer, I love creating applications that are scalable and efficient under the hood while providing engaging.</p>
 <ul> 
