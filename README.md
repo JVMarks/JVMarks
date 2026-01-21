@@ -129,7 +129,7 @@ John Marks
 
   <h3>🔥 Streak Stats</h3>
   <p>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JVMarks&theme=solarized-dark&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JVMarks&theme=solarized-dark&hide_border=true" alt="GitHub Streak" /></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
