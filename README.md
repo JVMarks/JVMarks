@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/JVMarks">
-John Marks
-  </a>
-</h1>
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/JVMarks">
@@ -22,6 +16,7 @@ John Marks
 
 <br/>
 
+ <h1>🤺 About</h1>
 <p>
   <b>TL;DR:</b> I build business-oriented full-stack systems that connect product, data, and real-world operations.
 </p>
