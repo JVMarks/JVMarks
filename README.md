@@ -22,12 +22,38 @@ John Marks
 
 <br/>
 
-<p align="center">
-  <b>Full-Stack Developer</b> with a strong enthusiasm for learning, business understanding, and absorbing company culture.
-  <br/>
-  I focus on <b>business logic</b> behind technology, creating <b>real value</b>, and growing with people and organizations.
-  <br/>
-  Currently working <b>independently</b> while continuing to develop my own business, with market experience in both technology and business-driven environments.
+<p>
+  <b>TL;DR:</b> I build business-oriented full-stack systems that connect product, data, and real-world operations.
+</p>
+
+<p>
+  I'm a <b>Full-Stack Software Engineer</b> and <b>Co-Founder of LivebooTV</b>, building production-ready web platforms with a strong focus on business logic, scalability, and real impact. I work primarily with <b>React, TypeScript, Node.js, and SQL/NoSQL databases</b>, delivering structured and maintainable systems that balance user experience, performance, and operational efficiency.
+</p>
+
+<p>
+  My background combines <b>software engineering, data analytics, and supply chain operations</b>. I’ve worked on LATAM and global projects, designing solutions that automate KPIs, improve decision-making, and transform business processes into scalable digital systems. I’m comfortable moving between frontend architecture, backend logic, data modeling, and product-level decisions.
+</p>
+
+<p>
+  At <b>LivebooTV</b>, I lead the development of a digital payments and streaming interaction platform, including real-time-ready architecture, financial rules validation, cryptographic verification (provably fair systems), and scalable UI components. I build with long-term thinking: modularity, clear domain modeling, and predictable evolution.
+</p>
+
+<p>
+  My style is pragmatic and business-driven. I care about understanding the problem before choosing the tool. I prioritize clarity, maintainability, and structured growth — applying good engineering practices, CI/CD, cloud environments, and scalable architecture patterns.
+</p>
+
+<p>
+  Beyond technical execution, I value communication, collaboration, and ownership. I continuously develop skills in system design, governance frameworks, agile methodologies, and product thinking.
+</p>
+
+<p>
+  <b>Core technologies/topics I apply most:</b><br/>
+  React • Next.js • TypeScript • Node.js • REST APIs • SQL/PostgreSQL • MongoDB • Data Modeling • Power BI • CI/CD (GitHub Actions) • AWS • Docker • Event-driven architecture • Kafka (conceptual & academic application) • UX/UI • Payment systems • Business analytics
+</p>
+
+<p>
+  <b>Languages:</b><br/>
+  PT-BR: Native • EN: Professional • ES: Intermediate • DE: Basic
 </p>
 
 <p align="center">
