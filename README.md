@@ -60,6 +60,46 @@
 <br/>
 
 <details open>
+  <summary><h2>🤝 LiveBoostTV — Co-CEOs (Coming soon for the community)</h2></summary>
+
+> A donations platform for streamers (Pix/Card/BTC), focused on **reliability**, **ledger/auditing**, **anti-fraud**, and a great checkout experience.
+
+> **Brand:** LiveBoostTV • **Domain:** liveboostv.com
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>João Marks</b><br/>
+      Co-CEO • Front-end & UX | UI<br/><br/>
+      <a href="https://github.com/JVMarks" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFD43B" />
+      </a><br/>
+      <a href="https://www.linkedin.com/in/jvmarks/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=FFD43B" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <b>Antonio Guimarães</b><br/>
+      Co-CEO • Back-end & Platform<br/><br/>
+      <a href="https://github.com/antonioCAGF" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFD43B" />
+      </a><br/>
+      <a href="https://www.linkedin.com/in/antonioguimaraesfilho" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=FFD43B" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+**Roadmap (high-level)**
+- Checkout + payments + reliable webhooks  
+- Wallet/withdrawals with rules and fees  
+- Observability (logs, metrics, traces) + alerts  
+- Security (JWT/2FA), anti-fraud, and auditability (ledger)
+
+</details>
+
+<details open>
   <summary><h2>🧩 What I do</h2></summary>
 
   <ul>
